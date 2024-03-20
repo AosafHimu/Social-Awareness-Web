@@ -1,10 +1,10 @@
 ## Before you contribute
 
 -   Is it necessary?
--   Does it make developing reactjs-starter-template-mui easier?
--   Does it fix a bug? -> Create an [issue](https://github.com/lifeparticle/reactjs-starter-template-mui/issues/new) with the steps to reproduce
+-   Does it make developing social-awareness-web easier?
+-   Does it fix a bug? -> Create an [issue](https://github.com/AosafHimu/Social-Awareness-Web/issues/new) with the steps to reproduce
 -   Does it break anything? -> Run the tests
--   Does it stick to the original goal of reactjs-starter-template-mui -> ReactJS starter template with Material UI
+-   Does it stick to the original goal of social-awareness-web -> User can post a campaign about social awareness
 -   Does it reduce the build size?
 -   Does it improve the user experience?
 -   Does it improve the performance?
@@ -68,7 +68,7 @@ yarn test
     3.1.
 
     ```shell
-    git remote add upstream git@github.com:lifeparticle/reactjs-starter-template-mui.git
+    git remote add upstream git@github.com:AosafHimu/Social-Awareness-Web.git
     ```
 
     3.2.
@@ -123,7 +123,7 @@ yarn test
 
     7.2 If you're having problem finding the url
 
-        a) https://github.com/lifeparticle/reactjs-starter-template-mui/pulls
+        a) https://github.com/AosafHimu/Social-Awareness-Web/pulls
 
         b) Click the button 'New pull request'
 

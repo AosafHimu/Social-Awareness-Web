@@ -1,6 +1,6 @@
 ## Introduction
 
-Welcome to our ReactJS project! This guide is designed to help you seamlessly set up and use our ReactJS starter template with Material UI. Whether you're a beginner or an experienced developer, these instructions will assist you in customizing and launching your application efficiently.
+This application is about social awareness campaign where users can post about any social issue and bsuiness owners can promote their business as well. 
 
 ## Contributing
 
